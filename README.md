@@ -119,10 +119,10 @@
 
   <section class="products" id="products">
     <div class="product">
-      <h3>Snacks</h3>
-      <p>Big Takis $13.99</p>
-      <p>Small Takis $7.50</p>
-      biscuits, chocolates & more!</p>
+      <h3>Big Takis $13.99</h3>
+      <h3>Small Takis $7.50</h3>
+      <h3>biscuits $5.00</h3> 
+      <h3>chocolates $10.00</h3>
       <button onclick="addToCart('Snacks')">Add to Cart</button>
     </div>
     <div class="product">
