@@ -101,7 +101,7 @@
 </head>
 <body>
   <header>
-    <img src="Ezy Mart Logo.jpg" alt="Ezy Mart Logo" />
+    <img src="Screenshot_2025-06-13-00-34-01-37_6012fa4d4ddec268fc5c7112cbb265e7.jpg" alt="Ezy Mart Logo" />
     <nav>
       <a href="#">Home</a>
       <a href="#products">Products</a>
