@@ -143,7 +143,8 @@
   </section>
 
   <section class="contact" id="contact">
-    <h2>Contact Us 0493289550</h2>
+    <h2>Contact Us</h2>
+   <h2>phone 0493289550</h2>
     <form>
       <input type="text" placeholder="Your Name" required />
       <input type="email" placeholder="Your Email" required />
@@ -155,7 +156,7 @@
   <section class="store-locator" id="store-locator">
     <h2>Store Locator</h2>
     <p>Find your nearest Ezy Mart store on Google Maps:</p>
-    <iframe src="[https://www.google.com/maps/embed/v1/search?key=YOUR_GOOGLE_MAPS_API_KEY&q=Ezy+Mart+Chastwood](https://g.co/kgs/G7ojQPM)" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://g.co/kgs/xjy6Bw9" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   </section>
 
   <section class="cart" id="cart">
